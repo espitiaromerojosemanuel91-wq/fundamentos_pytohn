@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> b585fd1c18bc908e51f7036e2ea80527d65775f2
 def calculadora():
     print("--- Calculadora Básica ---")
     print("Operaciones: + , - , * , /")
@@ -27,4 +31,8 @@ def calculadora():
         
         print("-" * 20)
 
+<<<<<<< HEAD
 calculadora()
+=======
+calculadora()
+>>>>>>> b585fd1c18bc908e51f7036e2ea80527d65775f2
